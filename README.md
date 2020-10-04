@@ -46,4 +46,4 @@ The dataset consists of the following categorial columns.
 
 ## Publication
 
-The blog post about this analysis can be found on (https://medium.com/@xiaoruyue1986/churn-prediction-with-pyspark-a75c391bf720)
+The blog post about this analysis can be found on [Medium](https://medium.com/@xiaoruyue1986/churn-prediction-with-pyspark-a75c391bf720)
